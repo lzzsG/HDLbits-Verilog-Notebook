@@ -155,9 +155,8 @@
 
 - [4-bit shift register](https://hdlbits.01xz.net/wiki/shift4) **4位移位寄存器**
 - [Left/right rotator](https://hdlbits.01xz.net/wiki/rotate100) **左右旋转器**
-- [Left/right arithmetic shift by 1 or 8
+- [Left/right arithmetic shift by 1 or 8](https://hdlbits.01xz.net/wiki/shift18) **左右算术移位 1 位或 8 位**
 
-](https://hdlbits.01xz.net/wiki/shift18) **左右算术移位 1 位或 8 位**
 - [5-bit LFSR](https://hdlbits.01xz.net/wiki/lfsr5) **5位线性反馈移位寄存器**
 - [3-bit LFSR](https://hdlbits.01xz.net/wiki/mt2015_lfsr) **3位线性反馈移位寄存器**
 - [32-bit LFSR](https://hdlbits.01xz.net/wiki/lfsr32) **32位线性反馈移位寄存器**
