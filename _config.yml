@@ -21,9 +21,7 @@
 title: "HDLbits Verilog Notebook"
 email: lizizhi122@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  HDLBits 是一个专注于使用 Verilog 硬件描述语言（HDL）进行数字硬件设计的小型电路设计练习平台，适合初学者和有一定经验的工程师学习数字逻辑设计。本笔记记录了在 HDLBits 平台上完成练习后的心得、解题思路和关键代码，旨在帮助学习者快速回顾与巩固 Verilog 的基础知识和模块化设计技巧。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -94,8 +92,8 @@ search:
 aux_links:
   "Home":
     - "//lzzs.fun"
-  "Blog":
-  - "//lzzs.fun/blog"
+  "Notes":
+  - "//lzzs.fun/notebooks"
   "GitHub":
   - "//github.com/lzzsG/HDLbits-Verilog-Notebook"
 
